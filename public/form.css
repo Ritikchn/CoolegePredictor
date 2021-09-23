@@ -1,0 +1,76 @@
+body{
+    background-color: #ffffff;
+    text-align: center;
+}
+/* NAVIGATION */
+
+.nav-list{
+  position: absolute;
+  right: 12%;
+}
+.nav-item{
+  padding-right: 1.5rem;
+  font-size: 1.25rem;
+}
+.nav-link{
+  color: #f39233 !important;
+  font-family: 'Cormorant Garamond', serif;
+}
+.navbar-brand{
+  padding-left: 4rem;
+  font-size: 1.6rem;
+font-family: 'Cormorant Garamond', serif;
+}
+.predictor{
+  color: #f39233;
+}
+/* FORM SECTION */
+#form{
+  text-align: left;
+}
+.form-group{
+  width: 70%;
+  margin: 2% 0;
+}
+.form-container{
+  padding:  2% 5%;
+}
+#form h1{
+  font-family: 'Cormorant Garamond', serif;
+    font-size: 3.5rem;
+    margin: 3% 0;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.submit-btn{
+  background-image: linear-gradient(to right, #f5a25d , #ffc93c);
+  margin-top:5%;
+  border-radius: 33px;
+  width: 10%;
+}
+/* RESULT TABLE */
+.result-table{
+  display: none;
+}
+/* ABOUT US SECTION  */
+#about-us{
+  background-image: linear-gradient(to left, #f5a25d , #ffc93c);
+}
+.last-section{
+  text-align: left;
+  margin: 4%;
+  padding: 5%;
+}
+.first-p{
+  color: #ececec;
+}
+.contact-heading{
+    font-family: 'DM Serif Display', serif;
+    color: #ffff;
+    margin: 2%;
+    padding-bottom: 2%;
+
+}
